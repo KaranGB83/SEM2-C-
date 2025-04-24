@@ -1,4 +1,4 @@
 # SEM2-C/CPP
-My Semester 2 Practicals of C++.
+My Projects and Practicals of OOPs with C++.
 <br>
 -by Karan Bhatre
